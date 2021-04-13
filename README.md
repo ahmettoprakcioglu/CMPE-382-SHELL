@@ -7,7 +7,7 @@ Tanercan Altuntaş
 
 ## HOW TO RUN?
 
-In which mode would you like to run it first?
+In which mode would you like to run it first?</br>
 Interactive mode: It will be enough to follow the commands in below.
 
 `./MAKEFILE`</br>
